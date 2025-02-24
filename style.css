@@ -22,3 +22,16 @@
     margin-left: 50px;
     color: #FFFFFF;
 }
+
+#menu-informacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+    
+.texto-informacional{
+    color: #000000;
+    display: flex;
+    align-items: center;
+}
