@@ -46,17 +46,17 @@
 }
 
 #titulo-historia{
-    margin: 20px 50px;
+    margin: 150px 100px 0px;
     font-weight: 600;
 }
 #texto-historia{
-    margin-left: 50px;
+    margin: 50px 100px 50px 100px;
     padding-bottom: 100px;
 }
 
 #sala{
     width: 400px;
     height: 605px;
-    margin-left: 200px;
+    margin-left: 300px;
     padding-bottom: 10px;
 }
