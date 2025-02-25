@@ -70,6 +70,35 @@
 
 #tituloformulario{
     color: #FFFFFF;
-    margin: 100px;
+    margin: 50px;
 }
 
+input{
+    width: 300px;
+    height: 30px;
+    margin: 15px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+button{
+    background-color: #C07212;
+    height: 40px;
+    width: 150px;
+    color: #EAECE5;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+} 
+
+button:hover{
+    background-color: #f3a749;
+    color: #EAECE5;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #0a0a0a ;
+    transition-duration: 1s;
+}
