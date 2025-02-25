@@ -40,13 +40,24 @@
     padding-bottom: 20px;
 }
 
-#titulo-historia{
-    margin: 100px 0px 10px 50px ;
-    font-weight: normal;
+#historia{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    
 }
 
+#titulo-historia{
+    margin: 100px 0px 0px 50px;
+    font-weight: 600;
+}
 #texto-historia{
     margin-top: 50px;
     margin-left: 50px;
     padding-bottom: 100px;
+}
+
+#sala{
+    
+    
 }
