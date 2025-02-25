@@ -24,14 +24,13 @@
 }
 
 #menu-informacional{
-    background-color: #F9F9F9;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
-}
-    
-.texto-informacional{
-    color: #000000;
-    display: flex;
+    margin: 100px 250px 100px 250px;
     align-items: center;
+}
+
+.tituloinformacional{
+   
 }
