@@ -62,7 +62,14 @@
 }
 
 #formulario{
+    background-image: url(imagens/fundo-menusuperior.svg);
+    background-size: cover;
+    padding: 20px 0px 20px 0px;
     text-align: center;
-    background-color: #303030;
-    color: #FFFFFF
 }
+
+#tituloformulario{
+    color: #FFFFFF;
+    margin: 100px;
+}
+
